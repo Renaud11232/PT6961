@@ -1,6 +1,6 @@
 # PT6961
 
-To be clear : I did not write this library, but as it's published into the public domain and the author's website is now down I thought it would be a good idea to upload this back on GitHub. All credits go to   Garrett Blanton. Here is what he wrote on his original blog post :
+To be clear : I did not write this library, but as it's published into the public domain and the author's website is now down I thought it would be a good idea to upload this back on GitHub. All credits go to   Garrett Blanton. Here is what they wrote on their original blog post :
 
 ## Introduction
 
