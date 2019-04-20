@@ -112,7 +112,7 @@ A listing of the commands enumeration is shown below
 `void sendNum(int num, char colon);`
 
  This function is used to send a number and enable the colon.
- Parameters are num (0-F) & colon (0=off; 1=on)
+ Parameters are `num` (`0`-`F`) & `colon` (`0`=off; `1`=on)
 
 `void sendDigits(char digit1, char digit2, char digit3, char digit4, char colon);`
 
