@@ -119,4 +119,12 @@ A listing of the commands enumeration is shown below
 This function is used to send a number as individual digits.
 Parameters are `digit1` (`0`-`F`), `digit2` (`0`-`F`), `digit3` (`0`-`F`), `digit4` (`0`-`F`), & `colon` (`0`=off; `1`=on)
 
-### Downloads
+## Downloads
+
+### PT6961 Arduino driver
+
+[PT6961 Driver](https://github.com/Renaud11232/PT6961/archive/master.zip)
+
+### PT6961 Data Sheet
+
+[PT6961 Datasheet](https://raw.githubusercontent.com/Renaud11232/PT6961/master/assets/docs/PT6961.pdf)
