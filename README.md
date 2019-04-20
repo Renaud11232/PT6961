@@ -52,7 +52,7 @@ Below is a sample program using the Arduino Uno.
 I wrote a PT6961 driver for the Arduino which is available for download below.
 
 ```cpp
-#include
+#include "PT6961.h"
 // Pin 2 = CS
 // Pin 3 = CLK
 // Pin 4 = DIN
@@ -66,7 +66,7 @@ void setup()
 void loop()
 {
      //count through 0-9,a-f
-     for(int i=0; i&lt;16; i++)
+     for(int i=0; i<16; i++)
      {
           LED.sendDigits(0,0,0,i,0);
           Serial.println(i);
